@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\lenovo\\documents\\lego\\game\\assets\\scripts\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\lenovo\\documents\\lego\\game\\assets\\scripts\\collectables\\rotateobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectables\\rotateobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\lenovo\\documents\\lego\\game\\assets\\scripts\\environments\\levelboundary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environments\\levelboundary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Documents\\Lego\\Game\\assets\\scripts\\environments\\generatelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environments\\generatelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Documents\\Lego\\Game\\assets\\scripts\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +26,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RotateObject.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Collectables\\RotateObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectables\\RotateObject.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Collectables\\RotateObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collectables\\RotateObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:58:52.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenerateLevel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Environments\\GenerateLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environments\\GenerateLevel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Environments\\GenerateLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environments\\GenerateLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:26:45.921Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -35,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PlayerMove.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Player\\PlayerMove.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMove.cs",
@@ -43,8 +76,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMove.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAwAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T12:57:45.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-13T12:57:45.728Z"
             }
           ]
         }
