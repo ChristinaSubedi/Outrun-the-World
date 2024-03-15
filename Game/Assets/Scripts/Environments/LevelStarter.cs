@@ -33,7 +33,7 @@ public class LevelStarter : MonoBehaviour
         yield return new WaitForSeconds(1);
         goFX.Play();
         countDownGo.SetActive(true);
-        yield return new WaitForSeconds(2);
+        yield return new WaitForSeconds(1);
 
         PlayerMove.canMove = true;
     }
