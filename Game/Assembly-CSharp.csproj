@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\Collectables\LevelDistance.cs" />
     <Compile Include="Assets\Scripts\Environments\LevelBoundary.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerMove.cs" />
+    <Compile Include="Assets\Scripts\Environments\LevelStarter.cs" />
     <Compile Include="Assets\Scripts\Environments\GenerateLevel.cs" />
   </ItemGroup>
   <ItemGroup>
