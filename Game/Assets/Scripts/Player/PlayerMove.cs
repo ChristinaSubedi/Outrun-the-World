@@ -6,6 +6,7 @@ public class PlayerMove : MonoBehaviour
 {
     public float moveSpeed = 8f;
     public float leftRightSpeed = 9f;
+    static public bool canMove = false;
 
     // Start is called before the first frame update
     void Start()
@@ -18,21 +19,24 @@ public class PlayerMove : MonoBehaviour
     {
         //Space.world as the movement (run) is relative to the world around it
         transform.Translate(Vector3.forward * moveSpeed * Time.deltaTime, Space.World);
-        //moving left
-        if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
+        if (canMove )
         {
-            if (this.gameObject.transform.position.x> LevelBoundary.leftSide)
+            //moving left
+            if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow))
             {
-                transform.Translate(Vector3.left * Time.deltaTime * leftRightSpeed);
+                if (this.gameObject.transform.position.x > LevelBoundary.leftSide)
+                {
+                    transform.Translate(Vector3.left * Time.deltaTime * leftRightSpeed);
+                }
             }
-        }
 
-        if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
-        {
-            if (this.gameObject.transform.position.x< LevelBoundary.rightSide)
+            if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
             {
-                transform.Translate(Vector3.left * Time.deltaTime * -leftRightSpeed);
+                if (this.gameObject.transform.position.x < LevelBoundary.rightSide)
+                {
+                    transform.Translate(Vector3.left * Time.deltaTime * -leftRightSpeed);
 
+                }
             }
         }
     }

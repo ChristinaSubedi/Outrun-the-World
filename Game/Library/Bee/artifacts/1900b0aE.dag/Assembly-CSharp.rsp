@@ -360,6 +360,7 @@
 "Assets/Scripts/Environments/GenerateLevel.cs"
 "Assets/Scripts/Environments/LevelBoundary.cs"
 "Assets/Scripts/Environments/LevelStarter.cs"
+"Assets/Scripts/Environments/ObstacleCollision.cs"
 "Assets/Scripts/Player/PlayerMove.cs"
 -langversion:9.0
 
