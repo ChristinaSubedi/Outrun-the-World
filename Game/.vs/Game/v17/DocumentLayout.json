@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\lenovo\\documents\\lego\\game\\assets\\scripts\\environments\\levelstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environments\\levelstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Documents\\Lego\\Game\\assets\\scripts\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\lenovo\\documents\\lego\\game\\assets\\scripts\\environments\\obstaclecollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environments\\obstaclecollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Documents\\Lego\\Game\\assets\\scripts\\collectables\\leveldistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +23,16 @@
       "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectables\\collectcoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Documents\\Lego\\Game\\assets\\scripts\\environments\\levelstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environments\\levelstarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Documents\\Lego\\Game\\assets\\scripts\\collectables\\collectablecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectables\\collectablecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Documents\\Lego\\Game\\assets\\scripts\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\Documents\\Lego\\Game\\assets\\scripts\\environments\\levelboundary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,43 +51,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ObstacleCollision.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Environments\\ObstacleCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environments\\ObstacleCollision.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Environments\\ObstacleCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environments\\ObstacleCollision.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:42:30.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "LevelStarter.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Environments\\LevelStarter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Environments\\LevelStarter.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Environments\\LevelStarter.cs",
               "RelativeToolTip": "Assets\\Scripts\\Environments\\LevelStarter.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA0AAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCMAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T13:02:17.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T13:02:17.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LevelDistance.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Collectables\\LevelDistance.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectables\\LevelDistance.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Collectables\\LevelDistance.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Collectables\\LevelDistance.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T21:32:46.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "CollectCoin.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Collectables\\CollectCoin.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Collectables\\CollectCoin.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Collectables\\CollectCoin.cs",
               "RelativeToolTip": "Assets\\Scripts\\Collectables\\CollectCoin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T20:09:25.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "RotateObject.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Collectables\\RotateObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Collectables\\RotateObject.cs",
@@ -95,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "GenerateLevel.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Environments\\GenerateLevel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Environments\\GenerateLevel.cs",
@@ -107,7 +111,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "CollectableControl.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Collectables\\CollectableControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectables\\CollectableControl.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Collectables\\CollectableControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collectables\\CollectableControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T20:46:23.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelDistance.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Collectables\\LevelDistance.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectables\\LevelDistance.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Collectables\\LevelDistance.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collectables\\LevelDistance.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T21:32:46.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "LevelBoundary.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Environments\\LevelBoundary.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Environments\\LevelBoundary.cs",
@@ -119,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "PlayerMove.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Player\\PlayerMove.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMove.cs",
@@ -128,18 +156,6 @@
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwCcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T12:57:45.728Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CollectableControl.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Collectables\\CollectableControl.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Collectables\\CollectableControl.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Lego\\Game\\Assets\\Scripts\\Collectables\\CollectableControl.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Collectables\\CollectableControl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T20:46:23.029Z"
             }
           ]
         }
