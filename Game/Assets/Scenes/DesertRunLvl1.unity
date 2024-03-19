@@ -9551,6 +9551,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 8
   leftRightSpeed: 9
+  isJumping: 0
+  comingDown: 0
+  playerObject: {fileID: 679538835}
 --- !u!65 &1059290860
 BoxCollider:
   m_ObjectHideFlags: 0
