@@ -362,6 +362,7 @@
 "Assets/Scripts/Environments/LevelDistance.cs"
 "Assets/Scripts/Environments/LevelStarter.cs"
 "Assets/Scripts/Environments/ObstacleCollision.cs"
+"Assets/Scripts/Menu/MainFunc.cs"
 "Assets/Scripts/Player/PlayerMove.cs"
 -langversion:9.0
 
