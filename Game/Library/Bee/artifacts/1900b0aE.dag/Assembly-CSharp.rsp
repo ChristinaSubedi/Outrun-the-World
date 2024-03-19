@@ -356,6 +356,7 @@
 "Assets/Scripts/Collectables/CollectableControl.cs"
 "Assets/Scripts/Collectables/CollectCoin.cs"
 "Assets/Scripts/Collectables/RotateObject.cs"
+"Assets/Scripts/Environments/Destroyer.cs"
 "Assets/Scripts/Environments/EndRunSequence.cs"
 "Assets/Scripts/Environments/GenerateLevel.cs"
 "Assets/Scripts/Environments/LevelBoundary.cs"
