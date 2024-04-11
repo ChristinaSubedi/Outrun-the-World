@@ -27,7 +27,7 @@ To play Outrun the World, follow these steps:
 
 1. Clone the repository to your local machine or download the source code as a ZIP file.
   
-2. Open the project in Unity. Make sure you have the appropriate version of Unity installed (Unity 20XX.XX recommended).
+2. Open the project in Unity. Make sure you have the appropriate version of Unity installed (Unity 2023.XX recommended).
   
 3. Once the project is open, you can build and run the game on your desired platform, whether it's PC, Mac, iOS, Android, or web.
 
